@@ -1,0 +1,18 @@
+Role: Junior Full-Stack Developer
+
+About the Role:
+We are seeking a motivated developer to join our engineering team. You will be responsible for building scalable web applications and maintaining backend services.
+
+Technical Requirements:
+
+Proficiency in Python for automation and scripting.
+
+Strong experience with Java and Spring Boot for backend development.
+
+Experience building modern UIs using React or Next.js.
+
+Solid understanding of SQL and database management (PostgreSQL/MySQL).
+
+Familiarity with Cloud infrastructure, specifically AWS or Azure.
+
+Working knowledge of Agile methodologies and Scrum.
